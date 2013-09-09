@@ -1,0 +1,13 @@
+/* 
+    Document   : cartStyle
+    Created on : 02/09/2013, 1:19:44 PM
+    Author     : TTJudy
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+body {background-color: #EEEEEE}
+span.thick {font-weight: bold}
